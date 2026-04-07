@@ -1,0 +1,3 @@
+@echo off
+echo Sentinel Agent: Optimizing Windows System...
+pause
