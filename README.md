@@ -12,5 +12,5 @@ Cross-Platform Compatibility:** Logic-switch for Windows/POSIX kernels.
 Automated Remediation:** Generates self-contained fix scripts.
 System-Level Integration:** Uses pipes and filters to parse stdout data.
 
-# 📈 Outcome-Focused Design
+📈 Outcome-Focused Design
 This project was built to demonstrate the **Solutionist** mindset: prioritizing delivered outcomes and automation over manual system triage.
