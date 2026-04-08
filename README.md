@@ -9,7 +9,7 @@ Sentinel-Agent is an **Agentic Coding** project designed to bridge high-level lo
 
 🛠️ Technical Features
 Cross-Platform Compatibility:** Logic-switch for Windows/POSIX kernels.
-*Automated Remediation:** Generates self-contained fix scripts.
+Automated Remediation:** Generates self-contained fix scripts.
 - **System-Level Integration:** Uses pipes and filters to parse stdout data.
 
 ## 📈 Outcome-Focused Design
