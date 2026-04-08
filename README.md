@@ -5,7 +5,7 @@ Sentinel-Agent is an **Agentic Coding** project designed to bridge high-level lo
  🧠 The Agentic Loop
  Sense: Scans system processes via `subprocess` calls to `tasklist` (Windows) or `ps` (Linux).
  Think: Dynamically detects the OS environment and triages process memory usage.
- *Act:** Autonomously generates execution-ready scripts (`.bat` or `.sh`) and programmatically manages file permissions (`chmod`).
+ Act:** Autonomously generates execution-ready scripts (`.bat` or `.sh`) and programmatically manages file permissions (`chmod`).
 
 ## 🛠️ Technical Features
 - **Cross-Platform Compatibility:** Logic-switch for Windows/POSIX kernels.
