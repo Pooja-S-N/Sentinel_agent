@@ -7,7 +7,7 @@ Sentinel-Agent is an **Agentic Coding** project designed to bridge high-level lo
  Think: Dynamically detects the OS environment and triages process memory usage.
  Act: Autonomously generates execution-ready scripts (`.bat` or `.sh`) and programmatically manages file permissions (`chmod`).
 
-## 🛠️ Technical Features
+#🛠️ Technical Features
 - **Cross-Platform Compatibility:** Logic-switch for Windows/POSIX kernels.
 - **Automated Remediation:** Generates self-contained fix scripts.
 - **System-Level Integration:** Uses pipes and filters to parse stdout data.
